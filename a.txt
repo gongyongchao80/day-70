@@ -3,8 +3,6 @@ bbbbb
 ccccc
 ddddd
 eeeee
-<<<<<<< HEAD
 fffff
-=======
 ggggg
->>>>>>> 623cdc232b326a1de2fa5e4d34781e992e7539f2
+hhhhh
